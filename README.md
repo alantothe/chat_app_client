@@ -1,4 +1,4 @@
-# Chat App - Alan Malpartida
+# Chat App - Alan Malpartida - Client 
 
 
 
